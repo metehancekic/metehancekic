@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on machine learning projects.
 - 💬 Ask me about adversarial attacks against neural networks.
 - 📫 How to reach me: metehancekic@ucsb.edu
-- ⚡ Fun fact: I am in love with the most beautiful woman on Earth.
+- ⚡ Fun fact: I have a gold medal in wrestling.
 
